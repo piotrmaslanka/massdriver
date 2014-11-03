@@ -1,0 +1,18 @@
+#ECP Compilation Preferences
+#Mon Jun 09 21:48:21 CEST 2014
+.CUSTOM_OPTIONS=false
+.INCLUDE_PATHS=
+.GENERATE_STUBS=true
+.GENERATE_TIES=false
+.COMPILE=false
+src/massdriver/CORBAMappings.idl.OUTPUT_DIRECTORY=
+src/massdriver/CORBAMappings.idl.INVOKE_COMPILERS=
+src/massdriver/CORBAMappings.idl.INCLUDE_PATHS=
+src/massdriver/CORBAMappings.idl.GENERATE_SKELETONS=false
+src/massdriver/CORBAMappings.idl.GENERATE_TIES=false
+.OUTPUT_DIRECTORY=D\:\\projects\\massdriver\\src
+.INVOKE_COMPILERS=net.sf.eclipscorba.compiler.openorb
+src/massdriver/CORBAMappings.idl.CUSTOM_OPTIONS=false
+.GENERATE_SKELETONS=true
+src/massdriver/CORBAMappings.idl.GENERATE_STUBS=true
+src/massdriver/CORBAMappings.idl.COMPILE=false
